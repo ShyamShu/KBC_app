@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "287604214599",
+    "project_id": "kbcapp-417dc",
+    "storage_bucket": "kbcapp-417dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287604214599:android:a318ecceb9cc5946c7da62",
+        "android_client_info": {
+          "package_name": "com.example.playkbc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287604214599-naulhh6gkpvh9qscg273t09qh7e3kfto.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.playkbc",
+            "certificate_hash": "68b89ccb3136dcba704e23a266bf952bd53db442"
+          }
+        },
+        {
+          "client_id": "287604214599-p7gqm40c7co2hhogvenip4boic6ss89n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8mKFr50X1qjgED41kDZ-w7Jnd-ezK0zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287604214599-p7gqm40c7co2hhogvenip4boic6ss89n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
